@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styles from "./table.module.css";
-
+/* eslint-disable @typescript-eslint/no-explicit-any */
 interface Column {
   key: string;
   header: string;
